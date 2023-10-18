@@ -11,7 +11,7 @@ Find the finished product <a href="https://github.com/psiko23/Horiseon">here</a>
 * Practice creating usable and informative README files
 
 ## Acceptance Criteria
-User was given starter code and prompted with the following Acceptance Criteria
+User was given starter code and prompted with the following Acceptance Criteria:
 
 ```
 WHEN I view the source code
