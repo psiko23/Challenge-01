@@ -2,7 +2,7 @@
 
 This is the completed "on the job ticket" for coding Bootcamp Challenge 01.
 
-Find the finished product (on github) <a href="https://github.com/psiko23/Horiseon">here</a>.
+Find the finished product <a href="https://psiko23.github.io/Horiseon/">here</a>.
 
 ## Learning Objectives
 * Solidify basic HTML and CSS knowledge
