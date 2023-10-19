@@ -71,7 +71,7 @@ header nav ul li {
 }
 
 .search-engine-optimization, .online-reputation-management,.social-media-marketing {
-    font-size: 20px;
+    font-size: 16px;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -100,6 +100,8 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
 /* modifies the aside element on the right hand side of the webpage */
 .benefits {
     margin-right: 20px;
@@ -118,6 +120,10 @@ header nav ul li {
     margin-top: 20px;
     margin-bottom: 10px;
     font-size: 18px;
+}
+
+.benefits div p {
+    font-size: 14px;
 }
 
 .benefits img {
